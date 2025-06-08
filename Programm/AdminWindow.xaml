@@ -1,0 +1,109 @@
+﻿<Window x:Class="VkrProgramm.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VkrProgramm"
+        mc:Ignorable="d"
+        Title="Окно администратора" Height="450" Width="700" MinHeight="450" MinWidth="700" 
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="TextBox" x:Key="txtBox">
+            <Setter Property="BorderThickness" Value="0,0,0,1"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="txtBlock">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="btnText">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <TextBlock Text="{TemplateBinding Content}" TextAlignment="Center"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="#FF87FAA6"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="btn">
+            <Setter Property="Background" Value="#FFF3F3F3"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Padding" Value="10 5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF87FAA6"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF41F371"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.5"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Border Background="White" Margin="10">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="8"/>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="55*" />
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="55*"/>
+                    <RowDefinition Height="80*"/>
+                    <RowDefinition Height="58*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="1" TextWrapping="Wrap" Text="Администратор" FontFamily="Courier New" FontSize="36" HorizontalAlignment="Center" Width="362" TextAlignment="Center" Margin="166,0"/>
+                <Image x:Name="imglogo"  Grid.Row="1" Source="Logo.png" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="70"/>
+                <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,5,0,5" >
+                    <Button x:Name="btnWatchSchedule" Style="{StaticResource btn}" Content="Просмотр расписания" Width="350" Height="30" Click="btnWatchSchedule_Click"/>
+                    <ComboBox x:Name="cmbGroupFilter" Width="200" Height="30" FontSize="16" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+                <Button x:Name="btnEditOrder" Grid.Row="2" Style="{StaticResource btn}" Content="Редактировать расписание" HorizontalAlignment="Center" VerticalAlignment="Top" Width="430" Height="30" Click="btnEditOrder_Click"/>
+                <Button x:Name="btnEditEmp" Grid.Row="3" Style="{StaticResource btn}" Content="Редактировать сотрудника" HorizontalAlignment="Center" VerticalAlignment="Top" Width="430" Height="30" Click="btnEditEmp_Click"/>
+                <Button x:Name="btnBack" Grid.Row="8" Style="{StaticResource btn}" Content="Выйти из учётной записи" HorizontalAlignment="Center" VerticalAlignment="Top" Width="230" Height="30" Click="btnBack_Click"/>
+                <Button x:Name="btnEditPrep" Grid.Row="4" Style="{StaticResource btn}" Content="Редактировать оценки и посещаемость" HorizontalAlignment="Center" VerticalAlignment="Top" Width="430" Height="30" Click="btnEditPrep_Click"/>
+                <Button x:Name="btnWatchPrep" Grid.Row="7" Style="{StaticResource btn}" Content="График оценок и посещаемости" HorizontalAlignment="Center" VerticalAlignment="Top" Width="350" Height="30" Click="btnWatchPrep_Click"/>
+                <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,5,0,5">
+                    <Button x:Name="btnWatchEmp" Style="{StaticResource btn}" Content="Список студентов" Width="350" Height="30" Click="btnWatchEmp_Click"/>
+                    <ComboBox x:Name="cmbGroupStudents" Width="200" Height="30" FontSize="16" Margin="10,0,0,0" VerticalAlignment="Center" DisplayMemberPath="GroupName"/>
+                </StackPanel>
+
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

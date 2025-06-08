@@ -1,0 +1,17 @@
+﻿<Window x:Class="VkrProgramm.WatchStudents"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Список студентов" Height="550" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <TextBlock x:Name="txtGroupTitle" Text="Список студентов группы" FontSize="24" FontWeight="Bold" Margin="0,0,0,10" HorizontalAlignment="Center"/>
+        <DataGrid x:Name="dataGridStudents" Margin="0,40,0,0" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding StudentID}" Width="50"/>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding StudentFullName}" Width="*"/>
+                <DataGridTextColumn Header="Адрес" Binding="{Binding S_Adress}" Width="200"/>
+                <DataGridTextColumn Header="Телефон" Binding="{Binding S_Phone}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
+

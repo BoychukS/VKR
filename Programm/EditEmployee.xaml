@@ -1,0 +1,166 @@
+﻿<Window x:Class="VkrProgramm.EditEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VkrProgramm"
+        mc:Ignorable="d"
+        Title="Редактирование сотрудника" Height="650" Width="900" MinHeight="650" MinWidth="900"
+        WindowStartupLocation="CenterScreen" >
+    <Window.Resources>
+        <Style TargetType="ComboBox" x:Key="cmbBox">
+            <Setter Property="BorderThickness" Value="0,0,0,1"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+        <Style TargetType="TextBox" x:Key="txtBox">
+            <Setter Property="BorderThickness" Value="0,0,0,1"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="txtBlock">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="btnText">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <TextBlock Text="{TemplateBinding Content}" TextAlignment="Center"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="LightSkyBlue"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button" x:Key="btn">
+            <Setter Property="Background" Value="#FFF3F3F3"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Padding" Value="10 5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Width" Value="Auto"/>
+            <Setter Property="Height" Value="Auto"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF87FAA6"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF41F371"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.5"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="btnDel">
+            <Setter Property="Background" Value="#FFF3F3F3"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Padding" Value="10 5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontFamily" Value="Courier New"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Width" Value="Auto"/>
+            <Setter Property="Height" Value="Auto"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFF96262"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FFFF3535"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.5"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Border Background="White" Margin="10">
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="176*"/>
+                <ColumnDefinition Width="394*"/>
+                <ColumnDefinition Width="176*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="31*" />
+                <RowDefinition Height="471*"/>
+                <RowDefinition Height="97*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="2" VerticalAlignment="Top" Height="485" Margin="0,1,0,0" Grid.ColumnSpan="3" Grid.RowSpan="2">
+                <TextBlock Style="{StaticResource txtBlock}" Margin="216,145,516,310" Text="Должность:"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="570,98,188,356" Text="Телефон:"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="215,98,530,356" Text="Отчество:"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="215,54,542,400" Text="Фамилия:"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="570,54,229,400" Text="Имя:"/>
+
+                <TextBox Name="FIO" Style="{StaticResource txtBox}" PreviewTextInput="rus" MaxLines="1" MaxLength="45" Margin="347,98,335,356" Text=""/>
+                <TextBox Name="phone" Style="{StaticResource txtBox}" FontSize="16" PreviewTextInput="number" MaxLines="1" MaxLength="11" Margin="684,98,52,356" Text=""/>
+                <TextBox x:Name="Sur" Style="{StaticResource txtBox}" PreviewTextInput="rus" MaxLines="1" MaxLength="45" Margin="335,54,335,400" Text=""/>
+                <TextBox x:Name="Name" Style="{StaticResource txtBox}" PreviewTextInput="rus" MaxLines="1" MaxLength="45" Margin="643,54,52,400" Text=""/>
+                <ComboBox Name="combEmp" Style="{StaticResource cmbBox}" FontSize="16" HorizontalAlignment="Left" Margin="361,145,0,0" VerticalAlignment="Top" Width="176" Height="30" SelectionChanged="combEmp_SelectionChanged"/>
+                <TextBlock x:Name="txtTitleEmp" Style="{StaticResource txtBlock}" Visibility="Visible" Margin="337,0,319,451" Text="Данные сотрудника"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="216,287,552,168" Text="Логин:"/>
+                <TextBox x:Name="txtLogin" Style="{StaticResource txtBox}" MaxLines="1" MaxLength="10" Margin="312,287,335,168" Text="" IsEnabled="True"/>
+
+                <ComboBox x:Name="combID" Style="{StaticResource cmbBox}" Visibility="Hidden" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" Width="117" Height="25" SelectionChanged="combID_SelectionChanged"/>
+                <TextBlock x:Name="txtID" Style="{StaticResource txtBlock}" Visibility="Hidden" Margin="10,11,669,447" Text="Код сотрудника"/>
+                <TextBlock x:Name="txtTitleAutorization" Style="{StaticResource txtBlock}" Visibility="Visible" Margin="337,226,301,225" Text="Данные авторизации"/>
+                <TextBlock Style="{StaticResource txtBlock}" Margin="215,335,553,120" Text="Пароль:" RenderTransformOrigin="0.487,0.678"/>
+                <TextBox x:Name="txtPassword" Style="{StaticResource txtBox}" MaxLines="1" MaxLength="10" Margin="325,329,335,126" Text="" IsEnabled="True"/>
+
+            </Grid>
+            <Button Grid.Row="3" Grid.Column="0" x:Name="btnBack" Style="{StaticResource btn}" Content="Вернуться" VerticalAlignment="Top" HorizontalAlignment="Left" Visibility="Visible" Width="120" Height="30" Click="btnBack_Click"/>
+            <Button Grid.Row="3" Grid.Column="1" x:Name="btnSaveEdit" Style="{StaticResource btn}" Content="Сохранить" VerticalAlignment="Bottom" HorizontalAlignment="Left" Visibility="Hidden" Width="100" Height="30" Margin="90,0,0,0" Click="btnSaveEdit_Click"/>
+            <Button Grid.Row="3" Grid.Column="1" x:Name="btnDelete" Style="{StaticResource btnDel}" Content="Удалить" VerticalAlignment="Bottom" HorizontalAlignment="Right" Visibility="Hidden" Width="100" Height="30" Margin="0,0,90,0" Click="btnDelete_Click"/>
+            <Button Grid.Row="3" Grid.Column="2" x:Name="btnAddNew" Style="{StaticResource btn}" Content="Добавить" VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Visible" Width="100" Height="30" Click="btnAddNew_Click" Margin="53,0"/>
+            <Button Grid.Row="3" Grid.Column="1" x:Name="btnEditEmp" Style="{StaticResource btn}" Content="Редактировать сотрудника" VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Visible" Width="250" Height="30" Click="btnEditEmp_Click" Margin="105,0"/>
+            <Button Grid.Row="3" Grid.Column="1" x:Name="btnNoEditEmp" Style="{StaticResource btn}" Content="Вернуться к добавлению" VerticalAlignment="Top" HorizontalAlignment="Center" Visibility="Hidden" Width="250" Height="30" Click="btnNoEditEmp_Click" Margin="105,0"/>
+            <Image x:Name="imglogo"  Grid.Row="1" Source="/Logo.png" Height="58" VerticalAlignment="Top" Margin="147,0,2,0" Grid.RowSpan="2" Grid.Column="2"/>
+
+        </Grid>
+    </Border>
+</Window>
