@@ -1,0 +1,132 @@
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.AssemblyReference.cache
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\AdminWindow.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditEmployee.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditOrder.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditPreparation.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\OrderCreate.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacistWindow.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchEmployee.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchOrder.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchStuff.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\App.g.cs
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\AdminWindow.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditEmployee.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditOrder.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\EditPreparation.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\MainWindow.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\OrderCreate.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacistWindow.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchEmployee.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchOrder.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\WatchStuff.baml
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.GenerateResource.cache
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.CoreCompileInputs.cache
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.exe
+C:\Users\evloe\Desktop\PharmacyProgramm-master\PharmacyProgramm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.AssemblyReference.cache
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\AdminWindow.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditEmployee.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditOrder.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditPreparation.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\OrderCreate.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacistWindow.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchEmployee.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchOrder.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchStuff.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\App.g.cs
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\AdminWindow.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditEmployee.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditOrder.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditPreparation.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\MainWindow.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\OrderCreate.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacistWindow.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchEmployee.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchOrder.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchStuff.baml
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.GenerateResource.cache
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.CoreCompileInputs.cache
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.exe
+C:\Users\evloe\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditPreparation.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\OrderCreate.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacistWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchStuff.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\EditPreparation.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\OrderCreate.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacistWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\WatchStuff.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект -Аптека\PharmacyProgramm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditPreparation.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\OrderCreate.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchStuff.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditPreparation.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\OrderCreate.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchStuff.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Window.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Window.baml

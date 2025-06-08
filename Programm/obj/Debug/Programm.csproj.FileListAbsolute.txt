@@ -1,0 +1,239 @@
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Programm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditPreparation.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\OrderCreate.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Window.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchStuff.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\EditPreparation.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\OrderCreate.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Window.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\WatchStuff.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Programm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\PharmacyProgramm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Window.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Window.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Programm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\PharmacyProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\Google.Protobuf.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\MySql.Data.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Buffers.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Memory.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\ZstdSharp.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\Google.Protobuf.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\Google.Protobuf.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\MySql.Data.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Buffers.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Memory.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditPreparation.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\OrderCreate.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Window.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchOrder.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchStuff.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\EditPreparation.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\OrderCreate.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Window.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchOrder.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\WatchStuff.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Programm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\Programm.csproj.Up2Date
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL — копия\Programm\obj\Debug\PharmacyProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\Google.Protobuf.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\MySql.Data.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Buffers.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Memory.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\ZstdSharp.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\Google.Protobuf.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\Google.Protobuf.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\MySql.Data.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Buffers.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Memory.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\Programm.csproj.Up2Date
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditAttendanceAndGrades.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditAttendanceAndGrades.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchSchedule.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchSchedule.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchStudents.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchStudents.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchAttendanceAndGrades.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\WatchAttendanceAndGrades.baml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditSchedule.g.cs
+C:\Users\tekqq\OneDrive\Desktop\Курсовой проект SQL\Programm\obj\Debug\EditSchedule.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\Google.Protobuf.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\MySql.Data.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Buffers.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Memory.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\ZstdSharp.dll
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\Google.Protobuf.pdb
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\Google.Protobuf.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.pdb
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\MySql.Data.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Buffers.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Memory.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Programm.csproj.AssemblyReference.cache
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditAttendanceAndGrades.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchStudents.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchAttendanceAndGrades.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\AdminWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditEmployee.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditSchedule.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditAttendanceAndGrades.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\MainWindow.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Window.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchStudents.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchSchedule.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchAttendanceAndGrades.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\App.g.cs
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\AdminWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditEmployee.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\EditSchedule.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\MainWindow.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Window.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\WatchSchedule.baml
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Programm.csproj.GenerateResource.cache
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Programm.csproj.CoreCompileInputs.cache
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\Programm.csproj.Up2Date
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\VkrProgramm.exe.config
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\VkrProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\bin\Debug\VkrProgramm.pdb
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm_MarkupCompile.cache
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm_MarkupCompile.lref
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm.g.resources
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm.Properties.Resources.resources
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm.exe
+C:\Users\tekqq\OneDrive\Desktop\ВКР\Programm\obj\Debug\VkrProgramm.pdb
